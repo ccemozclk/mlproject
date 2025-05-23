@@ -3,4 +3,12 @@ seaborn
 numpy
 matplotlib
 plotly
--e .
+
+scikit-learn
+catboost
+xgboost
+Flask
+
+
+
+#-e .
