@@ -22,7 +22,7 @@ You can test the project live here:
 
 ## 📁 Project Structure
 
-bash
+```​
 mlproject/
 ├── app.py
 ├── templates/
@@ -37,7 +37,7 @@ mlproject/
 ├── .ebextensions/
 │ └── python.config
 └── README.md
-
+```
 ---
 
 ## 🧪 Prediction Flow
