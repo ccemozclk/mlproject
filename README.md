@@ -21,7 +21,8 @@ You can test the project live here:
 ---
 
 ## 📁 Project Structure
-
+'''
+mlproject/
 ├── app.py
 ├── templates/
 │ ├── index.html
@@ -35,6 +36,7 @@ You can test the project live here:
 ├── .ebextensions/
 │ └── python.config
 └── README.md
+'''
 
 ---
 
